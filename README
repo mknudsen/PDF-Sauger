@@ -1,0 +1,9 @@
+Uses the Play Web Framework.
+
+Howto:
+
+cd dir-where-you-put-it
+play deps
+play run
+
+go to http://localhost:9000 to confirm if its running
